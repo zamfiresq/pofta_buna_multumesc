@@ -1,4 +1,4 @@
-# pofta_buna_multumesc
+# Poftă bună, mulțumesc
 
 Culinary blog "Enjoy your meal, thank you"
 
